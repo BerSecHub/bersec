@@ -1,3 +1,7 @@
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+plugins:
+  - jekyll-include-cache
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
